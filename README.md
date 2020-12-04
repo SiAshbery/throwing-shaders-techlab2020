@@ -10,7 +10,7 @@ Each shader is written in GLSL and can be previewed using [ShaderToy](https://ww
 ----
 ### Other useful resources:
 
-- [Inigo Quilez](https://www.iquilezles.org/) I seriously think this guys sold his soul to an elder god for his shader skills.
+- [Inigo Quilez](https://www.iquilezles.org/) I seriously think this guy sold his soul to an elder god for his shader skills.
 - [The Art of Code](https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg) Brilliant tutorials on Shaders, easy to follow and full of insight.
 - [Code Parade](https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw) Not tutorials but brilliant mind bending examples of what can be achieved with technical art and shader programming.
 - [My own blog on Rendering techniques and shader programming](https://medium.com/@si.ashbery/learning-to-draw-with-a-pencil-made-of-code-aa21b2a7b963) Just me trying to understand some of the techniques I had been learning about, but I think there are some useful insights for a beginner here.
